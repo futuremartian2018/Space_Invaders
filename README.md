@@ -12,7 +12,7 @@ Before the game begins user recievs instructions about how to play the game and 
 
 ![image](https://user-images.githubusercontent.com/37414943/60737306-91975d80-9f5a-11e9-8a44-ee156c5d9ae3.png)
 
-For killing and NPC one recievs 10 points - it requires 150 points to win the game, which means you have to kill 
+For killing an NPC one recievs 10 points - it requires 150 points to win the game, which means you have to kill 
 all your opponents. Player controls their vehicle using arrows on keyboard.
 
 # Game
